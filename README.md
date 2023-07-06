@@ -40,12 +40,13 @@ Meu nome é Andre Juan, tenho 30 anos e sou apaixonado por desafios e descobri n
 <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
  <img src="https://badges.frapsoft.com/typescript/awesome/typescript.png?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 
 ## 🌟 Github Stats
 
  <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=PedroSincero&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Pedro Sincero" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosincero&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Pedro Sincero" height="165" />
+     <img src="https://github-readme-stats.vercel.app/api?username=AndreJuan&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Andre Juan" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejvb&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Andre Juan" height="165" />
 </p>
 
 
