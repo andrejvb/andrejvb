@@ -45,7 +45,6 @@ Meu nome é Andre Juan, tenho 30 anos e sou apaixonado por desafios e descobri n
 ## 🌟 Github Stats
 
  <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=andrejvb&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Andre Juan" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejvb&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Andre Juan" height="165" />
 </p>
 
