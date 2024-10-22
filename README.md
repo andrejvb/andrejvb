@@ -14,7 +14,7 @@ Meu nome é Andre Juan, tenho 30 anos e sou apaixonado por desafios e descobri n
 ## 💫 Um pouco sobre mim
 
 <p>🔭 Formado em desenvolvedor web full stack na <a href="https://www.betrybe.com/">Trybe</a> </p>
-<p>🌱 Na luta para conciliar, pessoal, profissinale físico</p>
+<p>🌱 Na luta para conciliar, pessoal, profissinal e físico</p>
 <p>:headphones:  Curiosidade: sou fã  de musicas antigas</p>
 
 ## 💻 Skills
