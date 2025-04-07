@@ -3,7 +3,7 @@
 <div>
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
   <p align="left">
-Meu nome é Andre Juan, tenho 30 anos e sou apaixonado por desafios e descobri na programação uma nova paixão. Com anos de experiência como vendedor, desenvolvi habilidades excepcionais em comunicação que agora aplico para criar soluções tecnológicas inovadoras.
+Meu nome é Andre Juan, tenho 32 anos e sou apaixonado por desafios e descobri na programação uma nova paixão. Com anos de experiência como vendedor, desenvolvi habilidades excepcionais em comunicação que agora aplico para criar soluções tecnológicas inovadoras.
 
 
   </p>
