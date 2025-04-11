@@ -34,7 +34,6 @@ Olá! Me chamo <strong>Andre Juan</strong>, tenho 32 anos e sou um desenvolvedor
 <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="30px"/>
 <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30px"/>
 <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white" height="30px"/>
-<img src="https://img.shields.io/badge/Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white" height="30px"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30px"/>
 </p>
 
@@ -46,17 +45,6 @@ Olá! Me chamo <strong>Andre Juan</strong>, tenho 32 anos e sou um desenvolvedor
   <img src="https://profile-counter.glitch.me/andrejvb/count.svg?" />
 </div>
 
----
-
-## 👾 Gráfico de Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrejvb/andrejvb/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrejvb/andrejvb/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andrejvb/andrejvb/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ## 📊 GitHub Stats
 
