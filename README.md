@@ -45,7 +45,7 @@ Olá! Me chamo <strong>Andre Juan</strong>, tenho 32 anos e sou um desenvolvedor
 ## 📈 Visitantes
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/andrejvb/count.svg?" />
+  <img src="https://profile.visitorbadge.io/?path=github Andrejvb&style=plastic" />
 </div>
 
 
