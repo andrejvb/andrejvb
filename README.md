@@ -42,13 +42,6 @@ Olá! Me chamo <strong>Andre Juan</strong>, tenho 32 anos e sou um desenvolvedor
 
 ---
 
-## 📈 Visitantes
-
-<div align="center">
-          <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/andrejvb"/>  
-</div>
-
 ## 📊 GitHub Stats
 
 <p align="center">
