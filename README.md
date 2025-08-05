@@ -48,7 +48,7 @@ Atualmente, atuo como **Desenvolvedor Full Stack na Personizi**, onde desenvolvo
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrejvb&show_icons=true&theme=dracula&title_color=61dafb&hide_border=true&bg_color=22272e" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrejvb&show_icons=true&theme=tokyonight&title_color=61dafb&hide_border=true&bg_color=22272e" height="180" />
 </p>
 
 ---
