@@ -1,76 +1,55 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Olá, mundo! Eu sou André Juan 🚀
+# André Juan Velasco Barbosa
+Desenvolvedor Full Stack | Backend com NestJS/Node.js/MySQL | Frontend com Angular
 
-<div align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
-  <p>
-    Desenvolvedor Full Stack com foco em <strong>backend escalável, integrações robustas e automação de processos</strong>.  
-    Apaixonado por transformar dados em insights e resolver problemas reais com código limpo, arquitetura sólida e boas práticas.
-  </p>
-  <p>
-    Após anos no setor comercial, trouxe habilidades interpessoais que hoje potencializam minha atuação técnica: <strong>comunicação clara, autonomia e alinhamento entre tecnologia e negócio</strong>.
-  </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Olá! Eu sou André Juan 🚀
 </div>
+
+Sou um desenvolvedor full stack apaixonado por resolver problemas reais com código limpo, arquitetura sólida e boas práticas. Atualmente, atuo como **Desenvolvedor Full Stack na Personizi**, onde desenvolvo e mantenho sistemas críticos integrados a ERPs, controle financeiro e dashboards analíticos.
 
 ---
 
 ## 🌟 O que eu faço
 
-Atualmente, atuo como **Desenvolvedor Full Stack na Personizi**, onde desenvolvo e mantenho um sistema integrado de gestão comercial, conectado a ERPs, força de vendas e fluxo financeiro. Meu trabalho envolve desde a arquitetura de APIs até a entrega de dashboards estratégicos.
-
-### 🔧 Principais conquistas:
-- **Integração com dois ERPs (Tiny e Omie)** para emissão automatizada de NF-e, sincronização de pedidos e estoque — com **menos de 3% de erros na montagem de pedidos**, mesmo com alto volume de faturamento.
-- Desenvolvimento de um **módulo de gestão de estoque com cálculo dinâmico de estoque mínimo**, integrado a leitor de código de barras — reduzindo rupturas e aumentando a precisão operacional.
-- **Automação de processos com n8n e agentes de IA** para SDR, pós-venda e nutrição de leads, aumentando a eficiência da equipe comercial.
-- Criação de **dashboards analíticos** (comissões, faturamento, ranking de vendedores) que apoiam decisões estratégicas.
-- Conexão com aplicativo de força de vendas para sincronização em tempo real de pedidos, clientes e produtos.
+- Desenvolvimento de APIs RESTful com **NestJS** para integração com ERPs e sistemas de vendas.
+- Criação de interfaces responsivas com **Angular** para aplicativos de força de vendas.
+- Gestão de dados com **MySQL** e automação de processos com **n8n** e agentes de IA.
+- Participação ativa no ciclo completo de desenvolvimento: planejamento, codificação, testes e deploy.
 
 ---
 
-## 🛠️ Stack Técnica
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30px" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="30px" />
-  <img src="https://img.shields.io/badge/n8n-6C5CE7?style=for-the-badge&logo=n8n&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=apiary&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/MSC%20Architecture-336699?style=for-the-badge&logo=databricks&logoColor=white" height="30px" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30px"/>
+  <img src="https://img.shields.io/badge/n8n-6C5CE7?style=for-the-badge&logo=n8n&logoColor=white" height="30px"/>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrejvb&show_icons=true&theme=dracula&title_color=61dafb&hide_border=true&bg_color=22272e" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejvb&layout=compact&theme=dracula&title_color=61dafb&hide_border=true&bg_color=22272e" height="180" />
-</p>
+[![André Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrejvb&show_icons=true&theme=dracula&hide_langs=false&langs_count=5&exclude_repo=repo-to-ignore)](https://github.com/andrejvb)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrejvb&theme=discord&row=1&column=6" alt="GitHub Trophies" />
-</p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andrejvb&theme=discord&row=1&column=6)](https://github.com/andrejvb)
 
 ---
 
-## 📬 Vamos conversar?
+## 📬 Vamos nos conectar!
 
-Sou sempre aberto a conversas sobre tecnologia, automação, integrações, ou oportunidades em **backend, full stack ou sistemas integrados**.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andre-juan/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
-  </a>
-  <a href="mailto:andre.jvb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/andre-juan/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
+</a>
+<a href="mailto:andre.jvb@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
+</a>
