@@ -18,8 +18,8 @@
 Atualmente, atuo como **Desenvolvedor Full Stack na Personizi**, onde desenvolvo e mantenho um sistema integrado de gestão comercial, conectado a ERPs, força de vendas e fluxo financeiro. Meu trabalho envolve desde a arquitetura de APIs até a entrega de dashboards estratégicos.
 
 ### 🔧 Principais conquistas:
-- **Integração com dois ERPs (Tiny e Omie)** para emissão automatizada de NF-e, sincronização de pedidos e estoque — com **menos de 3% de erros na montagem de pedidos**, mesmo com alto volume de faturamento.
-- Desenvolvimento de um **módulo de gestão de estoque com cálculo dinâmico de estoque mínimo**, integrado a leitor de código de barras — reduzindo rupturas e aumentando a precisão operacional.
+- **Integração com dois ERPs (Tiny e Omie)** para emissão automatizada de NF-e, sincronização de pedidos e estoque com **menos de 3% de erros na montagem de pedidos**, mesmo com alto volume de faturamento.
+- Desenvolvimento de um **módulo de gestão de estoque com cálculo dinâmico de estoque mínimo**, integrado a leitor de código de barras reduzindo rupturas e aumentando a precisão operacional.
 - **Automação de processos com n8n e agentes de IA** para SDR, pós-venda e nutrição de leads, aumentando a eficiência da equipe comercial.
 - Criação de **dashboards analíticos** (comissões, faturamento, ranking de vendedores) que apoiam decisões estratégicas.
 - Conexão com aplicativo de força de vendas para sincronização em tempo real de pedidos, clientes e produtos.
