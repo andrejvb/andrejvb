@@ -35,7 +35,7 @@ Sou um desenvolvedor full stack apaixonado por resolver problemas reais com cód
 
 ## 📊 GitHub Stats
 
-[![André Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrejvb&show_icons=true&theme=dracula&hide_langs=false&langs_count=5&exclude_repo=repo-to-ignore)](https://github.com/andrejvb)
+[![André Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrejvb&show_icons=true&theme=tokyonight&hide_langs=false&langs_count=5&exclude_repo=repo-to-ignore)](https://github.com/andrejvb)
 
 ---
 
